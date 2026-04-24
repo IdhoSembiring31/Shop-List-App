@@ -20,7 +20,7 @@ Expo Snack : https://snack.expo.dev/@idhosembiring3107/smiling-orange-stroopwafe
 https://github.com/user-attachments/assets/8c8ba53c-26e9-42e2-99a9-c3235e0c4161
 ## Screenshot
 ### Tampilan Utama (List Produk)
-<img width="200" height="850" alt="image" src="https://github.com/user-attachments/assets/c18568f6-5879-4fbb-8f37-d7b4bba6af4b" />
+<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/c18568f6-5879-4fbb-8f37-d7b4bba6af4b" />
 
 
 ### Tampilan Search — saat ada hasil
