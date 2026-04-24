@@ -3,6 +3,7 @@
 ## Nama & NIM
 - Nama: [Idho jonathan Sembiring]
 - NIM:  [243303621251]
+  
 Expo Snack : https://snack.expo.dev/@idhosembiring3107/smiling-orange-stroopwafelshoplist-app-katalog-produk-dengan-flatlist
 ## Fitur yang Diimplementasikan
 - [✓] FlatList dengan 12+ produk
@@ -19,7 +20,7 @@ Expo Snack : https://snack.expo.dev/@idhosembiring3107/smiling-orange-stroopwafe
 https://github.com/user-attachments/assets/8c8ba53c-26e9-42e2-99a9-c3235e0c4161
 ## Screenshot
 ### Tampilan Utama (List Produk)
-<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/c18568f6-5879-4fbb-8f37-d7b4bba6af4b" />
+<img width="200" height="850" alt="image" src="https://github.com/user-attachments/assets/c18568f6-5879-4fbb-8f37-d7b4bba6af4b" />
 
 
 ### Tampilan Search — saat ada hasil
