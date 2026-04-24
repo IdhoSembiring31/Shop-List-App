@@ -24,11 +24,11 @@ https://github.com/user-attachments/assets/8c8ba53c-26e9-42e2-99a9-c3235e0c4161
 
 
 ### Tampilan Search — saat ada hasil
-<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/0b94aade-ac7b-4a2c-bbf6-66f3e61fb666" />
+<img width="280" height="550" alt="image" src="https://github.com/user-attachments/assets/0b94aade-ac7b-4a2c-bbf6-66f3e61fb666" />
 
 
 ### Tampilan Empty State — saat tidak ada hasil
-<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/a9726b50-e3f6-4d63-bc1e-7b7c40ea9e74" />
+<img width="280" height="550" alt="image" src="https://github.com/user-attachments/assets/a9726b50-e3f6-4d63-bc1e-7b7c40ea9e74" />
 
 
 ## Cara Menjalankan
